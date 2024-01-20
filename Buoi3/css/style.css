@@ -1,0 +1,23 @@
+#flex-box{
+    font-family: 'Grape Nuts', cursive;
+    background-color: aqua;
+    padding: 200px;
+    /* padding flex: 15px; */
+    /* display flex*/
+    display: flex;
+    /* justify-content: space-around; */
+    /* flex-direction: row-reverse; => theo chieu ngang */
+     /* flex-direction: column-reverse; => theo chieu doc  */
+     /* flex-wrap: wrap-reverse; => co xuong hang */
+     /* flex-wrap: row nowrap; => khong xuong hang */
+     
+
+}
+
+.item {
+width : 400px;
+height: 100px;
+background-color: blueviolet;
+font-size: 50px;
+color:aqua
+}
